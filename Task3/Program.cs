@@ -3,7 +3,7 @@
 Console.Clear();
 Console.WriteLine("Введите первую координату х1: ");
 double x1 = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("Введите первую координату y2: ");
+Console.WriteLine("Введите первую координату y1: ");
 double y1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите первую координату x2: ");
 double x2 = Convert.ToDouble(Console.ReadLine());
